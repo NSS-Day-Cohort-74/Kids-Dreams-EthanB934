@@ -16,9 +16,9 @@ const applicationHTML = `
             ${Celebrities()}
         </section>
     </article>
-
     <article class="assignments">
         <h2>Pairings</h2>
+        ${Pairings()}
     </article>
 `
 
